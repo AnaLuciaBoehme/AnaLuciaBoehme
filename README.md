@@ -20,7 +20,6 @@
   <a href="[https://github.com/AnaLuciaBoehme](https://github.com/AlianeAmaral)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnaLuciaBoehme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLuciaBoehme&layout=compact&langs_count=16&theme=tokyonight"/>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="600" style="max-width: 100%;">
 </div>
 
 <br>
@@ -36,6 +35,7 @@
 
  <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
  <img src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/Fire-Pixel.gif" width="220">
+ <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="600" style="max-width: 100%;">      
 
 ##
   

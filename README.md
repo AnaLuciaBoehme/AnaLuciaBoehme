@@ -33,8 +33,8 @@
     
 ## 
 
- <i> A magical universe can be born from small ideas! ⭐️</i> <br> <br>
- <img src="https://github.com/AnaLuciaBoehme/AnaLuciaBoehme/cafe.gif" width="220">
+ <i> Desistir não é e nunca foi minha opção. ⭐️</i> <br> <br>
+ <img src="https://github.com/AnaLuciaBoehme/AnaLuciaBoehme/blob/main/cafe.gif" width="220">
  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="600" style="max-width: 100%;">      
 
 ##

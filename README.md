@@ -20,6 +20,7 @@
   <a href="[https://github.com/AnaLuciaBoehme](https://github.com/AlianeAmaral)"> 
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnaLuciaBoehme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLuciaBoehme&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="600" style="max-width: 100%;">
 </div>
 
 <br>
